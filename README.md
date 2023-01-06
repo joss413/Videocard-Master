@@ -7,7 +7,7 @@
 
 - [Built with](#built-with)
 - [Author](#author)
-
+- [Links](#links)
 
 ### Built with
 
@@ -15,6 +15,11 @@
 - FlexBox
 - Vanilla javascript
 
+### Links
+
+- Solution URL: [Solution URL here](https://videocard-master.pages.dev/)
+
+          
 
 ## Author
 
